@@ -42,7 +42,7 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBots254c6b')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/iamnobita206243/NOBITA_MUSIC_01",
+    "https://github.com/iamnobita206243/APPLE_MUSIC_BOT",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
